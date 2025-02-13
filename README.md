@@ -1,2 +1,2 @@
 # demo_store
-It's a demo web store app.
+It's a demo store web application.
